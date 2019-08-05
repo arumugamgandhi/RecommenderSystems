@@ -1,4 +1,4 @@
-# RecommenderSystems
+# Recommender Systems
 
 Next category purchase prediction recommender systems based on eCommerce clickstream data
 
